@@ -1,0 +1,20 @@
+{"level":30,"time":"2023-04-16T03:02:00.522Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Listening on 37941"}
+{"level":30,"time":"2023-04-16T03:02:00.604Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-04-16T03:02:00.757Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-04-16T03:02:00.762Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Start of node method newContext"}
+{"level":30,"time":"2023-04-16T03:02:00.763Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-04-16T03:02:00.763Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Trace file: "}
+{"level":30,"time":"2023-04-16T03:02:00.776Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Changed active context"}
+{"level":30,"time":"2023-04-16T03:02:00.776Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"End of node method newContext"}
+{"level":30,"time":"2023-04-16T03:02:00.781Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-04-16T03:02:00.782Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-04-16T03:02:00.831Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Video path: undefined"}
+{"level":30,"time":"2023-04-16T03:02:00.831Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Changed active page"}
+{"level":30,"time":"2023-04-16T03:02:04.810Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"End of node method newPage"}
+{"level":30,"time":"2023-04-16T03:02:04.814Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Start of node method getText"}
+{"level":30,"time":"2023-04-16T03:02:04.814Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Strict mode is enabled, find Locator with h1 in page."}
+{"level":30,"time":"2023-04-16T03:02:04.856Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Retrieved text for element h1 containing Playwright enables reliable end-to-end testing for modern web apps."}
+{"level":30,"time":"2023-04-16T03:02:04.856Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"End of node method getText"}
+{"level":30,"time":"2023-04-16T03:02:04.858Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-04-16T03:02:04.863Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"Removed page=791c3531-8e04-4af0-8a5b-3b8c5925e93f from context=1cb9722e-4ae6-4a4f-ba52-79237d5aae1b page stack"}
+{"level":30,"time":"2023-04-16T03:02:04.901Z","pid":18719,"hostname":"rekiej-ThinkPad-T440p","msg":"End of node method closeAllBrowsers"}
